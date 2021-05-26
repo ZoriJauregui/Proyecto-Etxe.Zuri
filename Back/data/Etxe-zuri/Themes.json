@@ -1,0 +1,22 @@
+[
+    {
+        "id": "Pared_blanca",
+        "background": "http://0.0.0.0:5000/images/fondo-pagina-carta.jpeg",
+        "color": "black"
+    },
+    {
+        "id": "San_Valentin",
+        "background": "http://0.0.0.0:5000/images/carta-san-valentin.png",
+        "color": "white"
+    },
+    {
+        "id": "Halloween",
+        "background": "http://0.0.0.0:5000/images/fondo-halloween-carta.jpeg",
+        "color": "black"
+    },
+    {
+        "id": "Navidad",
+        "background": "http://0.0.0.0:5000/images/fondo-navidad.jpeg",
+        "color": "black"
+    }
+]

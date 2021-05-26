@@ -1,0 +1,183 @@
+[
+    {
+        "id": "Carta",
+        "category": "Hamburguesas",
+        "products": [
+            {
+                "product_id": "LA CLASICA:",
+                "ingredients": "Carne y queso.",
+                "icon" : ["Gluten", "Lacteos"],
+                "price": "4.50€"
+            },
+            {
+                "product_id": "LA EXPLOSIVA:",
+                "ingredients": "Carne, queso, lechuga, tomate y cebolla pochada.",
+                "icon" : ["Gluten", "Lacteos"],
+                "price": "5.50€"
+            },
+            {
+                "product_id": "LA DE LA CASA:",
+                "ingredients": "Carne, queso, lechuga, tomate, cebolla, bacon y huevo.",
+                "icon" : ["Gluten", "Lacteos", "Huevos"],
+                "price": "6.50€"
+            }
+        ]
+    },
+    {
+        "id": "Carta",
+        "category": "Sandwitch",
+        "products": [
+            {
+                "product_id": "MIXTO (3 pisos):",
+                "ingredients": "Jamon york y queso.",
+                "icon" : ["Gluten", "Lacteos"],
+                "price": "3.00€"
+            },
+            {
+                "product_id": "VEGETAL:",
+                "ingredients": "Jamon york, queso, bonito, lechuga, tomate y huevo cocido.",
+                "icon" : ["Gluten", "Lacteos", "Pescado", "Huevo"],
+                "price": "4.50€"
+            },
+            {
+                "product_id": "EL GOLOSO:",
+                "ingredients": "Jamon york, queso, bacon, lechuga, tomate y huevo a la plancha.",
+                "icon" : ["Gluten", "Lacteos", "Huevos"],
+                "price": "5.50€"
+            }
+        ]
+    },
+    {
+        "id": "Carta",
+        "category": "Bocadillos",
+        "products": [
+            {
+                "product_id": "SIMPLE DE 2 INGREDIENTES:",
+                "ingredients": "Lomo-queso, Bacon-queso, Pechuga-queso.",
+                "icon" : ["Gluten", "Lacteos"],
+                "price": "4.00€"
+            },
+            {
+                "product_id": "SIMPLE DE 3 INGREDIENTES:",
+                "ingredients": "Lomo-queso-huevo, Pechuga-lechuga-tomate.",
+                "icon" : ["Gluten", "Lacteos", "Huevo"],
+                "price": "4.50€"
+            },
+            {
+                "product_id": "HOT DOG:",
+                "ingredients": "Salchicha y salsas.",
+                "icon" : ["Gluten", "Lacteos"],
+                "price": "3.00€"
+            },
+            {
+                "product_id": "HOT DOG PREMIUM:",
+                "ingredients": "Salchicha, bacon, tomate en cuadritos y salsas.",
+                "icon" : ["Gluten", "Lacteos"],
+                "price": "4.00€"
+            }
+        ]
+    },
+    {
+        "id": "Carta",
+        "category": "Tortillas",
+        "products": [
+            {
+                "product_id": "TORTILLA DE PATATA:",
+                "ingredients": "Patata y huevo.",
+                "icon" : ["Huevo"],
+                "price": "10.00€"
+            },
+            {
+                "product_id": "TORTILLA DE PATATA RELLENA:",
+                "ingredients": "Patata, huevo, jamon york y queso.",
+                "icon" : ["Lacteos", "Huevo"],
+                "price": "12.00€"
+            }
+        ]
+    },
+    {
+        "id": "Carta",
+        "category": "Raciones",
+        "products": [
+            {
+                "product_id": "PATATAS FRITAS:",
+                "ingredients": "Mayonesa, ketchup, mostaza.",
+                "icon" : ["Mostaza", "Lacteos"],
+                "price": "3.50€"
+            },
+            {
+                "product_id": "PATATAS BRAVAS:",
+                "ingredients": "Salsa brava o alioli.",
+                "icon" : ["Lacteos", "Huevo"],
+                "price": "4.00€"
+            },
+            {
+                "product_id": "CHORIZO A LA SIDRA:",
+                "ingredients": "Chorizo y sidra.",
+                "icon" : "",
+                "price": "4.00€"
+            },
+            {
+                "product_id": "CROQUETAS:",
+                "ingredients": "Jamon o bacalao.",
+                "icon" : ["Gluten", "Lacteos", "Pescado"],
+                "price": "6.00€"
+            },
+            {
+                "product_id": "NUGGETS CON SALSAS (6 Unidades):",
+                "ingredients": "Barbacoa, mayonesa, ketchup, mostaza.",
+                "icon" : ["Gluten", "Lacteos", "Pescado", "Mostaza"],
+                "price": "3.00€"
+            },
+            {
+                "product_id": "EMPANADILLAS DE BONITO (6 Unidades):",
+                "icon" : ["Gluten", "Lacteos", "Pescado"],
+                "price": "3.00€"
+            },
+            {
+                "product_id": "ALITAS DE POLLO (6 Unidades):",
+                "icon" : "",
+                "price": "3.00€"
+            },
+            {
+                "product_id": "JIJAS CON PATATA:",
+                "ingredients": "Carne picada y patatas.",
+                "icon" : "",
+                "price": "3.00€"
+            },
+            {
+                "product_id": "FINGERS (6 Unidades):",
+                "ingredients": "Carne picada y patatas.",
+                "icon": "Gluten",
+                "price": "4.00€"
+            }
+        ]
+    },
+    {
+        "id": "Carta",
+        "category": "INGREDIENTES",
+        "products": [
+            {
+                "product_id": "INGREDIENTES",
+                "ingredients":[
+                    "Pollo",
+                    "Bacon",
+                    "Jamon york",
+                    "Bonito",
+                    "Anchoas",
+                    "Huevo Cocido",
+                    "Huevo plancha",
+                    "Queso",
+                    "Pimiento rojo",
+                    "Guindilla",
+                    "Lechuga",
+                    "Tomate",
+                    "Cebolla pochada",
+                    "Aceitunas negras"
+                ],
+                "icon": ["HUevo", "Pescado", "Lacteos"],
+                "price": "+0.50€ cada ingrediente extra"
+            }
+        ]
+    }
+]
